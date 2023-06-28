@@ -34,4 +34,4 @@
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/dan1el-alme1da/count.svg" /></p>
 
 
-![snake gif](https://github.com/dan1el-alme1da/formandodev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/daniel almeida/daniel almeida/blob/output/github-contribution-grid-snake.svg)
