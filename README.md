@@ -7,7 +7,7 @@ Software analyst and developer
 Technology enthusiast!
 
 * 🌍  I'm based in Brasil
-* 🖥️  See my portfolio at [personal portfolio](http://https://github.com/dan1el-alme1da/portifolio.git)
+* 🖥️  See my portfolio at [personal portfolio]https://github.com/dan1el-alme1da/portifolio
 * ✉️  You can contact me at [daniel.segcorp@gmail.com](mailto:daniel.segcorp@gmail.com)
 * 🧠  I'm learning Cypress, Adobe Experience Manager
 * 🤝  I'm open to collaborating on I´m open to collaborating on others projects!
