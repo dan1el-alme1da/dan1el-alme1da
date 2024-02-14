@@ -10,7 +10,7 @@ Technology enthusiast!
 * 🖥️  See my portfolio at [personal portfolio]https://github.com/dan1el-alme1da/portifolio
 * ✉️  You can contact me at [daniel.segcorp@gmail.com](mailto:daniel.segcorp@gmail.com)
 * 🧠  I'm learning Cypress, Adobe Experience Manager
-* 🤝  I'm open to collaborating on I´m open to collaborating on others projects!
+* 🤝  I´m open to collaborating on others projects!
 
 ### Skills
 
